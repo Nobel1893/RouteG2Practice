@@ -3,6 +3,10 @@
    <dimen name="spaceSmall">8dp </dimen>
    <dimen name="spacemeduim">16dp </dimen>
    <dimen name="spacelarge">24dp </dimen>
+    <dimen name="textSizeSmall">8sp </dimen>
+   <dimen name="textSizemeduim">16sp </dimen>
+   <dimen name="textSizelarge">24sp </dimen>
+
    <dimen name="buttonWidth">100dp </dimen>
    <dimen name="buttonHeight">100dp </dimen>
 </resources>

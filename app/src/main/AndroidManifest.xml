@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Login" />
-        <activity android:name=".Calculator.calculator"></activity>
+        <activity android:name=".Calculator.calculator" />
+        <activity android:name=".CarsActivity"></activity>
     </application>
 
 </manifest>
